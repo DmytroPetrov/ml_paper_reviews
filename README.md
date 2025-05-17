@@ -1,6 +1,6 @@
-# ml_paper_reviews
+# ML Paper Reviews
 
-## structure
+## Structure
 
 ```root 
 |- CV
